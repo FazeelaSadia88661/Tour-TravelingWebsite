@@ -18,8 +18,5 @@ This is a simple, static website for a Traveling & Tour Agency built using HTML 
 ## Usage
 Clone this repository and open `index.html` in your browser to see the website.
 
-## Screenshots
-*(Add screenshots here if you have any)*
-
 ## License
-This project is open-source and free to use.
+Made by FSA. This project is open-source and free to use.
